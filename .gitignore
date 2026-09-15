@@ -1,0 +1,13 @@
+# Credenciais sensíveis
+.env
+
+# Cache do Spotify 
+.spotify_token_cache
+
+# Cache de gêneros 
+genre_cache.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
